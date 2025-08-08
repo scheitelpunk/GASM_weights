@@ -84,13 +84,10 @@ If you use GASM or its weights, please cite:
 
 ---
 
-## 🙌 Contribute
-
-This is active research! If you'd like to extend GASM (e.g., add spatial relationships, languages, domains), feel free to fork and build upon it.
-
 <div align="center">
 
 **Made with ❤️ for geometric deep learning**
 
+Versino PsiOmega GmbH, http://psiomega.versino.de
 </div>
 
